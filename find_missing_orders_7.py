@@ -26,9 +26,9 @@ WH_SERVER  = "vh02-vm01,1435"
 WH_DB      = "dwh_0"
 
 ERP_USER = "SO"
-ERP_PASS = "opossum"
+ERP_PASS = "#####"
 WH_USER  = "dwh_0"
-WH_PASS  = "godesys"
+WH_PASS  = "#####"
 
 OUTPUT_DIR = Path(r"D:\reconsilation")
 
